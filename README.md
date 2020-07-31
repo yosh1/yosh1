@@ -1,5 +1,9 @@
 <br />
 
+![](./icon/facebook_cover_photo_2.png)
+
+<br />
+
 <h2 align="center">Hello! I'm yoshi.</h2>
 
 <br />
