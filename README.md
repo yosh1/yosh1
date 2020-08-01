@@ -1,6 +1,6 @@
 <br />
 
-![](./icon/facebook_cover_photo_2.png)
+![](https://github.com/yoshi1125hisa/yoshi1125hisa/blob/master/icon/facebook_cover_photo_2.png)
 
 <br />
 
