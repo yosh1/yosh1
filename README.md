@@ -2,8 +2,6 @@
 
 ![](https://github.com/yoshi1125hisa/yoshi1125hisa/blob/master/icon/facebook_cover_photo_2.png)
 
-<br />
-
 <h2 align="center">Hello! I'm yoshi.</h2>
 
 <br />
