@@ -7,6 +7,9 @@
 <br />
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yoshi1125hisa&show_icons=true&count_private=true" />
+  <br />
+  <br />
   <a href='https://yoshi.fun'>Portfolio</a> /
   <a href='https://www.wantedly.com/users/136325101'>Wantedly</a> /
   <a href='https://qiita.com/yoshi1125hisa'>Qiita</a> /
